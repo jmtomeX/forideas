@@ -1,0 +1,32 @@
+npm install
+express 
+express-async-errors 
+awilix
+cors
+compression 
+helmet 
+bcryptjs 
+jsnwebtoken 
+memory-cache 
+mongoose 
+swagger-ui-express
+mongoose-autopopulate
+
+
+
+Dependencias de desarrollo 
+
+npm install -D
+dotenv
+nodemon 
+mockingoose 
+jest
+
+
+.env
+APLICATION_NAME = "Share Your Idea"
+PORT=5000
+MONGO_URI = "mongodb://ideas_user:qc4WSNbL39CnNQq@cluster0-shard-00-00.urf8y.azure.mongodb.net:27017,cluster0-shard-00-01.urf8y.azure.mongodb.net:27017,cluster0-shard-00-02.urf8y.azure.mongodb.net:27017/forIdeas?ssl=true&replicaSet=atlas-mmdjmt-shard-0&authSource=admin&retryWrites=true&w=majority"
+JWT_SECRET= ñsda%%··$$·%jdjasrg80(/(&9432$·&·6
+CACHE_KEY= myStrongPassword0842398$
+SWAGGER_DOC=swaggerDEV
