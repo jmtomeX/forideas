@@ -1,8 +1,8 @@
 language: node_js
 node_js:
-  - stable
+- stable
 deploy:
   provider: heroku
   app: forideas-app
-
-
+  api_key:
+    secure: JcDISilhcc8HX/iiAWNAooowYZ/LpNEjamRqwLpVmL0imdU0QWaForw03BWSRcxrKMGg6eKgcwYMs4gx8siru88lPuKIJMA2wkFkXkqYQKIWZ/9DMqshO/CxAw7oH0Yupqoh4Jm9NT1enMlO+V+8FvRL0hCzsQxzJ9ws1KPjQV5RPg58rQyL+swIram8Opv5rVcRwxLEJ7qEtowrUaBhBOIXfmXwSLe2ha2AEr/2hl7ZOZAIN+mjYnrNmqw9rfeIokHmUf+u/sJ6wJ0fxoMRqrKnAzGYA+etfqTx7N5KNdgkeJ4dYLX4ADpKwFRMllrOuf3YwlVaXNAWl5kooOzAa+WUR1I9Khs3nUwgCToT3h+6CH4+NSjtUOVJ0xxLjLcCLwS6P2fVXVo5USr7fR6RevKRvLpe8Acw7OWW2K5mF6DzC/VZH3F+uNQOwk/EXiZQcReJTlemyZLZSe1xFPtojBtX9iXrqiX50MrLoazeGLZIKyo+9mzz4D7tYdxTCkD6dhCtmesaRA8sntyx52rzjbmE82kd5cFgkATW7k93RTwkc1FBO0BPcHKc4oDserAMl9q/ig8FrvZ0b17uVYmyssRQ+BS/d3kWAfMt2+lWj/fqeXPqsAkT3G3iR0IbB4OszLq6DZdkv/Yz1tIh1xjpCERPhoCBBAwUu0uS2P4B2Os=
